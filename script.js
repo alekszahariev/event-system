@@ -79,22 +79,22 @@ function showForm(phone){
         </div>
         
         <div class="input-group">
-            <span>Паролата за телефона на Ребека:</span>
+            <span>Паролата за телефона на детектива:</span>
             <input type="text" class="form-control" name="firstword" placeholder="Парола за телефона:" id="" required>
         </div>
     
         <div class="input-group">
-            <span>Парола номер 3 - Malum:</span>
+            <span>Е-майл парола</span>
             <input type="text" class="form-control" name="secondword" placeholder="Парола номер 3 - Malum:" id="" required>
         </div>
        
         <div class="input-group">
-            <span>Разкодирана бележка от Ребека към Барбара (цялата):</span>
-            <input type="text" class="form-control" name="thirdword" placeholder="Разкодирана бележка от Ребека към Барбара (цялата)" id="" required>
+            <span> ИП на предполагаемия убиец. </span>
+            <input type="text" class="form-control" name="thirdword" placeholder="ИП на предполагаемия убиец." id="" required>
         </div>
     
         <div class="input-group">
-            <span>Напиши твоето решение на случая възможно най-подробно.</span>
+            <span>Напиши твоето решение на случая.</span>
             <textarea style="width:100%" name="answer" id="" cols="30" rows="10" required></textarea>
         </div>
     

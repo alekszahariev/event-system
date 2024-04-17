@@ -58,10 +58,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                   Дай своя отговор и спечели една от 10те парични награди.
                 </p>
 
-                <div class="phone-check">
-                    <h4 class="text-center">Верифицирай се</h4>
-                    <div class="mb-3">
-                        <label for="" class="form-label">Телефон с който си направил поръчка</label>
+                <div class="phone-check"><br>
+                    <h4 class="text-center">Верифицирай се</h4><br>
+                    <div class="mb-3"><br>
+                        <label for="" class="form-label">Телефон с който си направил поръчка</label><br>
+                        <small>Можеш да дадеш отговор само веднъж! Помисли добре.</small>
                         <input
                             type="text"
                             name="phone"
