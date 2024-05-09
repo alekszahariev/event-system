@@ -84,17 +84,17 @@ function showForm(phone){
         </div>
     
         <div class="input-group">
-            <span>Е-Майл парола</span>
-            <input type="text" class="form-control" name="secondword" placeholder="Е-Майл Парола" id="" required>
+            <span>Парола номер 3 - Malum:</span>
+            <input type="text" class="form-control" name="secondword" placeholder="Парола номер 3 - Malum:" id="" required>
         </div>
        
         <div class="input-group">
-            <span>ИП на предполагаемия убиец:</span>
-            <input type="text" class="form-control" name="thirdword" placeholder="ИП на предполагаемия убиец:" id="" required>
+            <span>Разкодирана бележка от Ребека към Барбара (цялата):</span>
+            <input type="text" class="form-control" name="thirdword" placeholder="Разкодирана бележка от Ребека към Барбара (цялата)" id="" required>
         </div>
     
         <div class="input-group">
-            <span>Напиши твоето решение на случая и защо мислиш така.</span>
+            <span>Напиши твоето решение на случая възможно най-подробно.</span>
             <textarea style="width:100%" name="answer" id="" cols="30" rows="10" required></textarea>
         </div>
     

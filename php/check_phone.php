@@ -3,7 +3,7 @@ include("./conn.php");
 
 // Check if phone number exists in the database
 $phoneValue = $_POST['phone'];
-$case = "rebecca";
+$case = "ardjikov";
 
 // Prepare the SQL statement
 $stmt = $conn->prepare("SELECT * FROM orders WHERE TRIM(phone) = ? AND sluchai = ?");
