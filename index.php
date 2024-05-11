@@ -55,10 +55,18 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             <div class="container">
                 <h2 class="text-center">Случай: Арджиков</h2>
                 <p class="text-center">
-                  Дай своя отговор и спечели една от 10те парични награди.
+                   Състезанието приключи! <br>
+                Благодарим за вашето участие. Очаквайте следващото след 2-3 месеца.
                 </p>
 
-                <div class="phone-check"><br>
+                <p>
+                    Код на случая (копирай): 19992001<br>
+
+                    Провери своя отговор тук: <a href="https://imhustler.com/extras/answer/">линк</a><br>
+                    Виж жокери тук: <a href="https://imhustler.com/extras/joker/">линк</a>
+                </p>
+
+                <div style="display:none;" class="phone-check"><br>
                     <h4 class="text-center">Верифицирай се</h4><br>
                     <div class="mb-3"><br>
                         <label for="" class="form-label">Телефон с който си направил поръчка</label><br>
